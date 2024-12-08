@@ -1,2 +1,2 @@
 # python
-python program practise
+python program practise just for demo
